@@ -28,7 +28,6 @@ app.use(flash());
 //SEED THE DATA BASE
 // seedDB();
 
-
 //PASSPORT CONFIGURATION
 app.use(require("express-session")({
     secret: "Secret, secret, I've got a secret.",
