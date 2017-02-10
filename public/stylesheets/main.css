@@ -18,9 +18,9 @@
     text-align: right;
     padding-top: 0;
     padding-right: 10px;
-    position:fixed;
-    bottom:0;
-    width:100%;
+    /*position: fixed;*/
+    bottom: 0;
+    width: 100%;
 }
 
 body {
